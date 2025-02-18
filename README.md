@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Blockchain Developer** and **Frontend Developer** passionate about building scalable web and mobile applications. I specialize in **React.js**, **Tailwind CSS**, and **React Native**.
+I'm a **Frontend Developer** and **Blockchain Developer**  passionate about building scalable web and mobile applications. I specialize in **React.js**, **Tailwind CSS**, and **React Native**.
 
 ### 🚀 About Me
 - 🎓 **Computer Science Student** (Level 300, 1st Semester)
