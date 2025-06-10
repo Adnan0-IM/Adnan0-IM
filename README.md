@@ -9,8 +9,8 @@ I'm a **Frontend & Blockchain Developer** passionate about building **secure, sc
 - 💻 Currently building a non-profit website for **Bakarean Center** using **React, TypeScript, and Tailwind CSS**  
 - 📱 Learning **Mobile App Development** and expanding my skills in **Blockchain Development**  
 - 🔐 Passionate about **Web3 Security**, **Smart Contract Auditing**, and contributing to **decentralized and impactful solutions**  
-- 🧠 Looking forward to my **final year project**, where I will build an **AI-powered chatbot** that **summarizes**, **extracts practice questions**, and **explains handouts** for **students in higher education**  
-- 🤝 Also looking forward to joining a team to build a **School Management System**, take on **freelance work**, and **contribute to open source**  
+- 🧠 As part of my upcoming final year project, I will be developing an **AI-powered educational chatbot** that assists higher education students by **summarizing lecture content**, **generating practice questions**, and **explaining academic materials clearly**  
+- 🤝 Eager to take on **freelance work** and contribute to **open-source projects**  
 - 🎯 Long-term goal: Become a **Full Stack Developer** and a **Certified Smart Contract Auditor**
 
 ---
