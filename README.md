@@ -1,40 +1,58 @@
-# **Hi there! 👋**  
+# 👋 Hey there! I'm Adnan
 
-I'm a **Frontend & Blockchain Developer** passionate about building **secure, scalable, and decentralized applications**. I specialize in **React.js, TypeScript, Tailwind CSS, and ShadCN UI**, with growing experience in **mobile development and blockchain technologies**.
-
----
-
-## 🚀 **About Me**  
-- 🎓 **Computer Science Student** (Level 300, 1st Semester)  
-- 💻 Currently building a non-profit website for **Bakarean Center** using **React, TypeScript, and Tailwind CSS**  
-- 📱 Learning **Mobile App Development** and expanding my skills in **Blockchain Development**  
-- 🔐 Passionate about **Web3 Security**, **Smart Contract Auditing**, and contributing to **decentralized and impactful solutions**  
-- 🧠 As part of my upcoming final year project, I will be developing an **AI-powered educational chatbot** that assists higher education students by **summarizing lecture content**, **generating practice questions**, and **explaining academic materials clearly**  
-- 🤝 Eager to take on **freelance work** and contribute to **open-source projects**  
-- 🎯 Long-term goal: Become a **Full Stack Developer** and a **Certified Smart Contract Auditor**
+I'm a **Full Stack & Certified Blockchain Developer** focused on building secure, scalable, and user-friendly web applications. I work with the **MERN stack**—**MongoDB**, **Express**, **React**, and **Node.js**—and I'm constantly improving my skills in both **web** and **blockchain** development.
 
 ---
 
-## 🛠 **Tech Stack & Tools**  
-### **Frontend Development**  
-✅ React.js | React Native | TypeScript | Tailwind CSS | ShadCN UI  
-✅ HTML | CSS | Next.js  
+## 🚀 A Bit About Me
 
-### **Blockchain Development & Security**  
-✅ Solidity | Hardhat | Foundry | Web3.js | Ethers.js  
-✅ Smart Contract Security | Auditing | Slither | Mythril  
-✅ DeFi & NFT Security | Layer 2 Scaling | Zero-Knowledge Proofs  
-
-### **Backend & Scripting**  
-✅ Python | PHP | MySQL  
-✅ REST APIs | Backend Logic  
+* 🎓 3rd-year Computer Science student  
+* 👨🏾‍💻 Currently doing my SIWES at **Shamrock Innovations Hub**
+* 📜 Holds a **Certificate in Blockchain Development**  
+* 🔐 Passionate about Web3, decentralization & smart contracts  
+* 💼 Open to freelance gigs and collaborative open-source work  
+* 🎯 On a mission to become a strong Full Stack Developer with deep blockchain expertise
 
 ---
 
-## 📫 **Get in Touch**  
-- 📧 Email: [Adnan](mailto:adnanilyas969@gmail.com)  
-- 🌐 Portfolio: [Adnan.com](https://adnan0-im.github.io/Frontend-Basics-Portfolio/)  
-- 🐦 Twitter: [X.com](https://twitter.com/Adnan_imd)  
-- 💼 LinkedIn: [linkedin.com](https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a)  
+## 🛠 Tech I Work With
 
-🚀 **Let's connect & secure the future of Web3 together!** 🔐
+### 💻 Frontend
+
+React | TypeScript | Tailwind CSS | ShadCN UI | HTML | CSS |
+
+### 📱 Mobile
+
+React Native (learning)
+
+### 🔧 Backend
+
+Node.js | Express.js | PostgreSQL | MongoDB (learning) | REST APIs
+
+### 🔗 Blockchain
+
+Solidity | Web3.js | Ethers.js | Blockchain basics & Smart Contracts
+
+### 🧰 Other Tools
+
+Python | PHP | MySQL | Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnan0-IM&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan0-IM&layout=compact&theme=radical)
+
+---
+
+## 📢 Let's Connect!
+
+* 📧 Email: [adnanilyas969@gmail.com](mailto:adnanilyas969@gmail.com)  
+* 🌐 Portfolio: [My Work](https://adnan0-im.github.io/Frontend-Basics-Portfolio/)  
+* 🕊️ Twitter: [@Adnan_imd](https://twitter.com/Adnan_imd)  
+* 💼 LinkedIn: [Connect on LinkedIn](https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a)
+
+---
+
+🔗 Let’s build something great — across the web, mobile, and blockchain.
