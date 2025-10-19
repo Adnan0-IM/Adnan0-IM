@@ -25,7 +25,7 @@
 ---
 
 <h3>🧰 &nbsp;Tools I Use & Learn</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,ts,nodejs,express,mongodb,postgres,docker,git,vscode,neovim,vim,linux,arch" />
   </a>
