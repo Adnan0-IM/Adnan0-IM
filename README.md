@@ -43,19 +43,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan0-IM&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan0-IM&layout=compact&theme=tokyonight" height="160"/>
-</p>
-<h3 align="center">🟩 Contribution Graph</h3>
-
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adnan0-IM&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
-
-</p>
-
 
 
 ✨ **Let’s innovate together — across Web, Blockchain, and AI.**
