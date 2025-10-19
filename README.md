@@ -6,10 +6,8 @@
 * 👨‍💻 My name is **Adnan Iliyasu Muhammad**  
 * 💻 **Full Stack & Blockchain Developer** specializing in the **MERN stack**  
 * 🔭 Currently working on **an investment platform** and **mobile projects**  
-* 🌱 Learning **blockchain security**, **AI-powered educational tools**, and **React Native**  
-* 🤖 Preparing my **final year project** — an **AI chatbot** that summarizes, explains, and generates practice questions from academic handouts  
+* 🌱 Learning **blockchain security**, **AI-powered educational tools**, and **React Native** 
 * 🤝 Open to **freelance** and **open-source collaborations**  
-* 💬 Ask me about **Web3, smart contracts, or front-end performance**  
 * ❤️ Love building clean, scalable digital experiences  
 * ⚡ Fun fact: I tweak my **Arch-based Linux + Neovim** setup almost as much as I code 😄  
 
@@ -38,7 +36,7 @@
 <p align="left">
   <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
   <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://x.com/Adnan_imd"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" width="40" height="40" alt="X (Twitter)"/></a>
+  <a href="https://x.com/Adnan_imd"><img src="https://fontawesome.com/icons/x-twitter?f=brands&s=solid" width="40" height="40" alt="X (Twitter)"/></a>
   <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfolio"/></a>
 </p>
 
