@@ -49,8 +49,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan0-IM&layout=compact&theme=tokyonight" height="160"/>
 </p>
 <h3 align="center">🟩 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnan0-IM&theme=tokyo-night&hide_border=true" width="90%"/>
+
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adnan0-IM&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+
+
 </p>
 
 
