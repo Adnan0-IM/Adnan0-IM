@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey% Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-### Hi there 👋
 
 * 👋 My name is **Adnan Iliyasu Muhammad**  
 * 💻 I’m a **Full Stack & Blockchain Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)**  
-* 🔭 I’m currently working on projects using **React, TypeScript, Tailwind CSS, and ShadCN UI**  
+* 🔭 I’m currently working on School management system , an investment Platform.
 * 🌱 I’m learning **mobile development**, **blockchain security**, and **AI-powered educational tools**  
 * 🤖 I’m preparing my **final year project**, building an **AI chatbot** to summarize, explain, and generate practice questions from academic handouts  
 * 🤝 I’m open to **freelance projects** and **open-source collaborations**  
 * 💬 Ask me about **Web3, smart contracts, or front-end optimization**  
 * ❤️ I love building clean, scalable, and creative digital solutions  
-* ⚡ Fun fact: I enjoy customizing my Linux + Neovim setup almost as much as coding 😄  
+* ⚡ Fun fact: I enjoy customizing my Arch based(distro) Linux + Neovim setup almost as much as coding 😄  
 
 ---
 
@@ -28,26 +26,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/AutoAnimate-4A90E2?style=for-the-badge&logo=animation&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/BetterAuth-1E1E1E?style=for-the-badge&logo=auth0&logoColor=white" height="30"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="mailto:adnanilyas969@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/></a>
-  <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Adnan_imd"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/></a>
-  <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Portfolio"/></a>
-</p>
+📧 [adnanilyas969@gmail.com](mailto:adnanilyas969@gmail.com)  
+💼 [LinkedIn](https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a)  
+🐦 [Twitter](https://twitter.com/Adnan_imd)  
+🌍 [Portfolio](https://adnan0-im.github.io/Frontend-Basics-Portfolio/)  
 
 ---
 
