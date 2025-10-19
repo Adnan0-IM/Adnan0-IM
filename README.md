@@ -7,7 +7,7 @@
   <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
   <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://x.com/Adnan_imd"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/></a>
-  <a href="https://www.instagram.com/adnan_imd/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/adnan.imd/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a>
   <a href="https://discordapp.com/users/Adnan_IMD"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/></a>
 </p>
 
