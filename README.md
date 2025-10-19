@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey% Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-* 👋 My name is **Adnan Iliyasu Muhammad**  
-* 💻 I’m a **Full Stack & Blockchain Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)**  
-* 🔭 I’m currently working on School management system , an investment Platform.
-* 🌱 I’m learning **mobile development**, **blockchain security**, and **AI-powered educational tools**  
-* 🤖 I’m preparing my **final year project**, building an **AI chatbot** to summarize, explain, and generate practice questions from academic handouts  
-* 🤝 I’m open to **freelance projects** and **open-source collaborations**  
-* 💬 Ask me about **Web3, smart contracts, or front-end optimization**  
-* ❤️ I love building clean, scalable, and creative digital solutions  
-* ⚡ Fun fact: I enjoy customizing my Arch based(distro) Linux + Neovim setup almost as much as coding 😄  
+### Hi there 👋  
+* 👨‍💻 My name is **Adnan Iliyasu Muhammad**  
+* 💻 **Full Stack & Blockchain Developer** specializing in the **MERN stack**  
+* 🔭 Currently working on **an investment platform** and **mobile projects**  
+* 🌱 Learning **blockchain security**, **AI-powered educational tools**, and **React Native**  
+* 🤖 Preparing my **final year project** — an **AI chatbot** that summarizes, explains, and generates practice questions from academic handouts  
+* 🤝 Open to **freelance** and **open-source collaborations**  
+* 💬 Ask me about **Web3, smart contracts, or front-end performance**  
+* ❤️ Love building clean, scalable digital experiences  
+* ⚡ Fun fact: I tweak my **Arch-based Linux + Neovim** setup almost as much as I code 😄  
 
 ---
 
-<h2>🧰 &nbsp;Tools I Use</h2>
+<h3>🧰 &nbsp;Tools I Use</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
@@ -33,11 +34,13 @@
 
 ---
 
-## 🌐 Connect With Me  
-📧 [adnanilyas969@gmail.com](mailto:adnanilyas969@gmail.com)  
-💼 [LinkedIn](https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a)  
-🐦 [Twitter](https://twitter.com/Adnan_imd)  
-🌍 [Portfolio](https://adnan0-im.github.io/Frontend-Basics-Portfolio/)  
+<h3>🌐 Connect With Me</h3>
+<p align="left">
+  <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
+  <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Adnan_imd"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/></a>
+  <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="Portfolio"/></a>
+</p>
 
 ---
 
