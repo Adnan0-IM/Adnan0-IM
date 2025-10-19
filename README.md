@@ -38,8 +38,8 @@
 <p align="left">
   <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
   <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Adnan_imd"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/></a>
-  <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="Portfolio"/></a>
+  <a href="https://x.com/Adnan_imd"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" width="40" height="40" alt="X (Twitter)"/></a>
+  <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfolio"/></a>
 </p>
 
 ---
