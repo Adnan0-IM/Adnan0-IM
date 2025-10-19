@@ -6,9 +6,9 @@
   <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfolio"/></a>
   <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
   <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://x.com/Adnan_imd"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X (Twitter)"/></a>
-  <a href="https://www.instagram.com/adnan_imd/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram"/></a>
-  <a href="https://discordapp.com/users/Adnan_IMD"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" alt="Discord"/></a>
+  <a href="https://x.com/Adnan_imd"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/></a>
+  <a href="https://www.instagram.com/adnan_imd/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a>
+  <a href="https://discordapp.com/users/Adnan_IMD"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/></a>
 </p>
 
 
@@ -25,27 +25,14 @@
 ---
 
 <h3>🧰 &nbsp;Tools I Use & Learn</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,ts,nodejs,express,mongodb,postgres,docker,git,vscode,neovim,vim,linux,arch" />
+  </a>
 </p>
 
 ---
 
-
-
-✨ **Let’s innovate together — across Web, Blockchain, and AI.**
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer"/>
