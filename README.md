@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# 👋 Hey there! I'm **Adnan**
+### Hi there 👋
 
-💻 **Full Stack & Blockchain Developer** specialized in the **MERN stack (MongoDB, Express, React, Node.js)** with strong skills in **React, TypeScript, Tailwind CSS, and ShadCN UI**.  
-🚀 Currently exploring **mobile development**, **blockchain security**, and **AI-powered educational solutions**.
-
----
-
-## 🚀 About Me  
-🎓 3rd-year **Computer Science** student  
-📜 Certified **Blockchain Developer**  
-🤖 Building an **AI-powered educational chatbot** that helps students by summarizing content, generating practice questions, and explaining materials  
-🔐 Passionate about **Web3**, **decentralization**, and **smart contract auditing**  
-💼 Open to **freelance** and **open-source collaborations**
+* 👋 My name is **Adnan Iliyasu Muhammad**  
+* 💻 I’m a **Full Stack & Blockchain Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)**  
+* 🔭 I’m currently working on projects using **React, TypeScript, Tailwind CSS, and ShadCN UI**  
+* 🌱 I’m learning **mobile development**, **blockchain security**, and **AI-powered educational tools**  
+* 🤖 I’m preparing my **final year project**, building an **AI chatbot** to summarize, explain, and generate practice questions from academic handouts  
+* 🤝 I’m open to **freelance projects** and **open-source collaborations**  
+* 💬 Ask me about **Web3, smart contracts, or front-end optimization**  
+* ❤️ I love building clean, scalable, and creative digital solutions  
+* ⚡ Fun fact: I enjoy customizing my Linux + Neovim setup almost as much as coding 😄  
 
 ---
 
@@ -33,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
