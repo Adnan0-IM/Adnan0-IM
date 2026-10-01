@@ -14,13 +14,7 @@
 
 ### Hi there 👋  
 * 👨‍💻 My name is **Adnan Iliyasu Muhammad**  
-* 💻 **Full Stack & Blockchain Developer** specializing in the **MERN stack**  
-* 🔭 Currently working on **an investment platform** and **mobile projects**  
-* 🌱 Learning **blockchain security**, **AI-powered educational tools**, and **React Native**  
-* 🎓 Studying **Computer Science** at *Federal University Dutse*  
-* 🤝 Open to **freelance** and **open-source collaborations**  
-* ❤️ Love building clean, scalable digital experiences  
-* ⚡ Fun fact: I tweak my **Arch-based Linux + Neovim** setup almost as much as I code 😄  
+* 💻 **Software Engineer**
 
 ---
 
