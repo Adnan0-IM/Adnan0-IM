@@ -1,6 +1,5 @@
-```html
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?text=Adnan%20Iliyasu%20Muhammad&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Adnan&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
 <h2 align="center">Software Engineer | AI Security & Security Engineering</h2>
@@ -51,12 +50,10 @@ Building software, strengthening systems fundamentals, and developing practical 
 - **AI Security** — Experiments in testing and securing AI-powered applications.
 - **Security Engineering** — Practical tools, labs, and automation.
 
----
 
 <p align="center">
   <i>Building software. Understanding failure. Engineering security.</i>
 </p>
-```
 </p>
 
 ---
