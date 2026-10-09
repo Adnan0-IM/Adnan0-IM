@@ -1,28 +1,62 @@
+```html
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<h2 align="center">Let's Connect 💬</h2>
-<p align="center">
-  <a href="https://adnan0-im.github.io/Frontend-Basics-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfolio"/></a>
-  <a href="mailto:adnanilyas969@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/></a>
-  <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://x.com/Adnan_imd"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)"/></a>
-  <a href="https://www.instagram.com/adnan.imd/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a>
-  <a href="https://discordapp.com/users/Adnan_IMD"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?text=Adnan%20Iliyasu%20Muhammad&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
+<h2 align="center">Software Engineer | AI Security & Security Engineering</h2>
 
-### Hi there 👋  
-* 👨‍💻 My name is **Adnan Iliyasu Muhammad**  
-* 💻 **Software Engineer**
+<p align="center">
+  I build software, explore how systems fail, and work toward making applications and AI-powered systems more secure.
+</p>
+
+<p align="center">
+  <a href="https://adnanilyas.dev/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="35" alt="Website"/>
+  </a>
+  <a href="mailto:adnanilyas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email"/>
+  </a>
+  <a href="https://ng.linkedin.com/in/adnan-iliyasu-muhammad-90961028a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Adnan_imd">
+    <img src="https://skillicons.dev/icons?i=twitter" width="35" alt="X"/>
+  </a>
+</p>
 
 ---
 
-<h3>🧰 &nbsp;Tools I Use</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,ts,nodejs,express,mongodb,postgres,docker,git,vscode,neovim,vim,linux,arch" />
-  </a>
+### 🧰 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,c,react,nodejs,postgres,docker,linux,git" alt="Technologies"/>
+</p>
+
+### 🔐 Areas of Interest
+
+- Application & API Security
+- AI / LLM Security
+- AI Agent Security
+- Backend Systems
+- Cloud & Infrastructure Security
+- Security Testing & Automation
+
+### 🚧 Current Focus
+
+Building software, strengthening systems fundamentals, and developing practical security projects.
+
+### 📌 Featured Projects
+
+- **VeriDoc** — Document verification using cryptographic techniques.
+- **AI Security** — Experiments in testing and securing AI-powered applications.
+- **Security Engineering** — Practical tools, labs, and automation.
+
+---
+
+<p align="center">
+  <i>Building software. Understanding failure. Engineering security.</i>
+</p>
+```
 </p>
 
 ---
